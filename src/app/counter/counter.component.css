@@ -88,7 +88,6 @@ h2 {
   background: linear-gradient(45deg, #f57c00, #ef6c00);
 }
 
-/* Responsivo */
 @media (max-width: 768px) {
   .card {
     padding: 30px 20px;
